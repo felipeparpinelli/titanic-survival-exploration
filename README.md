@@ -16,18 +16,18 @@ Udacity recommends our students install [Anaconda](https://www.continuum.io/down
 
 ### Code
 
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. Additional supporting code can be found in `titanic_visualizations.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Template code is provided in the notebook `Titanic_Survival_Exploration_PT.ipynb` notebook file. Additional supporting code can be found in `titanic_visualizations.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
 
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory `titanic_survival_exploration/` (that contains this README) and run **one** of the following commands:
 
 ```bash
-jupyter notebook titanic_survival_exploration_PT.ipynb
+jupyter notebook Titanic_Survival_Exploration_PT.ipynb
 ```
 or
 ```bash
-ipython notebook titanic_survival_exploration_PT.ipynb
+ipython notebook Titanic_Survival_Exploration_PT.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your web browser.

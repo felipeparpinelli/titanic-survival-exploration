@@ -23,11 +23,11 @@ Template code is provided in the notebook `titanic_survival_exploration.ipynb` n
 In a terminal or command window, navigate to the top-level project directory `titanic_survival_exploration/` (that contains this README) and run **one** of the following commands:
 
 ```bash
-jupyter notebook titanic_survival_exploration.ipynb
+jupyter notebook titanic_survival_exploration_PT.ipynb
 ```
 or
 ```bash
-ipython notebook titanic_survival_exploration.ipynb
+ipython notebook titanic_survival_exploration_PT.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your web browser.
